@@ -1,6 +1,6 @@
 '''taking input number'''
 m = int(input())
-'''taking the input of How many decimal digits are required from point.'''
+'''taking the input of How many decimal digits are required after point.'''
 n = int(input())
 low = 0
 high = m 
